@@ -1,0 +1,10 @@
+/home/dortiz/netprojects/solicitudesvipmysql/mysqlefcore/obj/Debug/netcoreapp2.0/mysqlefcore.csproj.CoreCompileInputs.cache
+/home/dortiz/netprojects/solicitudesvipmysql/mysqlefcore/obj/Debug/netcoreapp2.0/mysqlefcore.AssemblyInfoInputs.cache
+/home/dortiz/netprojects/solicitudesvipmysql/mysqlefcore/obj/Debug/netcoreapp2.0/mysqlefcore.AssemblyInfo.cs
+/home/dortiz/netprojects/solicitudesvipmysql/mysqlefcore/bin/Debug/netcoreapp2.0/mysqlefcore.deps.json
+/home/dortiz/netprojects/solicitudesvipmysql/mysqlefcore/bin/Debug/netcoreapp2.0/mysqlefcore.runtimeconfig.json
+/home/dortiz/netprojects/solicitudesvipmysql/mysqlefcore/bin/Debug/netcoreapp2.0/mysqlefcore.runtimeconfig.dev.json
+/home/dortiz/netprojects/solicitudesvipmysql/mysqlefcore/bin/Debug/netcoreapp2.0/mysqlefcore.dll
+/home/dortiz/netprojects/solicitudesvipmysql/mysqlefcore/bin/Debug/netcoreapp2.0/mysqlefcore.pdb
+/home/dortiz/netprojects/solicitudesvipmysql/mysqlefcore/obj/Debug/netcoreapp2.0/mysqlefcore.dll
+/home/dortiz/netprojects/solicitudesvipmysql/mysqlefcore/obj/Debug/netcoreapp2.0/mysqlefcore.pdb
